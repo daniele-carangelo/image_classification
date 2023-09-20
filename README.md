@@ -1,2 +1,2 @@
-# image_classification
-ML for image classification
+# THESIS
+Benchmark of ML algorithms for image classification
